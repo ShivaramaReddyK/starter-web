@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    shivreddy	shivreddy@Git.Training	@shivreddy
 
 # THANKS
 
