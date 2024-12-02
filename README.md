@@ -14,6 +14,10 @@ main purpose is to provide simple output
 
 This is a simple web Project
 
+## How to contribute
+
+Please fork this repository and then issue pull requests for review
+
 ### Copyright
 
 2024 Git.Training
