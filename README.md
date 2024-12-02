@@ -13,3 +13,8 @@ main purpose is to provide simple output
 ## Deployment
 
 This is a simple web Project
+
+### Copyright
+
+2024 Git.Training
+
